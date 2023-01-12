@@ -1,3 +1,5 @@
-# calculator
+# Demo-repo
 
-A simple calculator app that was created as an assignment and for practice any changes are welcome!
+
+#learning basics about github
+A simple demo on github!
